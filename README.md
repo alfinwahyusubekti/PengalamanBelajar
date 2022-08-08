@@ -1,13 +1,15 @@
 # PengalamanBelajar
 Repository ini berisi pengalaman belajarku di Dicoding
-08 Agustus 2022
+
+**08 Agustus 2022**
+
 Belajar kelas Mengenal Github lebih dalam. (Progres 38%)
 
 * Belajar tentang apa itu GitHub dan GitLab
 
 * Belajar tools yang dapat digunakan untuk kebutuhan pada pengerjaan proyek bersama
 
-09 Agustus 2022
+**09 Agustus 2022**
 
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 
@@ -17,3 +19,15 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 
   * Belajar tipe data koleksi, seperti list, set, dan map.
   * ini menggunakan template dicoding sebagai latihan*
+
+**20 Agustus 2022**  
+
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
+
+  * Belajar konsep OOP (Object-Oriented Programming) untuk mempermudah pengembangan sebuah program.
+
+  * Belajar class-class yang sering digunakan dalam bahasa Java seperti generic, exception, input output, date time, dan casting. 
+
+  * Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan bangun datar. 
+
+  * Mengerjakan ujian akhir untuk menilai kemahiran diri.
